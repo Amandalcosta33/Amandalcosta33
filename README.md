@@ -2,7 +2,7 @@
 ### Hey There, Im Amanda Lopes
 QA/Software Testing Specialist || Java Back-end Developer<br><br>
 📜 Graduated in Analysis and Systems Development <br>
-📜 Graduated in Web Developer <br>
+📜 Graduated in Web Development <br>
 
 <div>
   <a href="https://github.com/Amandalcosta33">
