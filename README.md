@@ -1,6 +1,6 @@
 
 ### Hey There, Im Amanda Lopes
-QA/Software Testing Specialist || Java Back-end Developer<br><br>
+QA/Software Testing Specialist || Java and C# Back-end Developer<br><br>
 📜 Graduated in Analysis and Systems Development <br>
 📜 Graduated in Web Development <br>
 
