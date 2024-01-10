@@ -7,7 +7,6 @@ QA/Software Testing Specialist || Java and C# Back-end Developer<br><br>
 <div>
   <a href="https://github.com/Amandalcosta33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandalcosta33&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandalcosta33&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Technologies I use in my daily work
