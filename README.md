@@ -1,37 +1,42 @@
+<h2 align="center">Amanda Lopes Costa</h2>
 
-### Hey There, Im Amanda Lopes
-Java and C# Back-end Developer<br><br>
-📜 Graduated in Analysis and Systems Development <br>
-📜 Graduated in Web Development <br>
+<p align="center">
+  <b>Senior Software Engineer @ C6 Bank</b><br>
+  Back-end · Java · Kotlin · Spring · Distributed Systems · AWS
+</p>
 
-<div>
-  <a href="https://github.com/Amandalcosta33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandalcosta33&show_icons=true&theme=dark&include_all_commits=true"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandalopesct/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:amanda.lcosta33@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Technologies I use in my daily work
-  
-<div style="display: inline_block"><br>
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+---
 
-</div><br/>
-  
- <div style="display: inline_block">
-     <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-        <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
-</div>
+### About me
 
-## You can contact me here
-  <div>
-    <a href = "mailto:amanda.lcosta33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/amanda-lopes-costa-522576191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+Software Engineer focused on back-end and distributed systems in the financial sector. I design and run microservices with **Java, Kotlin and Spring Boot**, using event-driven architectures to power platforms that process **over BRL 2B in transactions**.
+
+- ⚡ Event-driven systems on AWS (SQS, SNS, Lambda): retries, DLQs, idempotency, eventual consistency
+- 🔭 Reliability and observability in production with Dynatrace and Elasticsearch
+- 🎓 Postgraduate student in Software Architecture at FIAP
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,docker,kubernetes,mysql,mongodb,cs,dotnet,jenkins,git&theme=dark" alt="Tech stack">
+</p>
+
+### Experience
+
+- **C6 Bank**, Senior Software Engineer · *2026 – Present*
+- **Banco PAN**, Software Engineer · *2024 – 2026*
+- **Vegas Card do Brasil**, Development Analyst · *2023 – 2024*
+- **IBM**, Software Testing Specialist & Application Developer Intern · *2020 – 2023*
+
+### GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amandalcosta33&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats">
+</p>
+
+<img src="/metrics.languages.svg" alt="Most used languages, including organization repositories">
