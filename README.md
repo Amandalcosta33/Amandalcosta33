@@ -39,4 +39,4 @@ Software Engineer focused on back-end and distributed systems in the financial s
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amandalcosta33&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats">
 </p>
 
-<img src="/metrics.languages.svg" alt="Most used languages, including organization repositories">
+<img src="/languages.svg" alt="Most used languages, including organization repositories">

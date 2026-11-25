@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.languages.svg
+          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: America/Sao_Paulo
