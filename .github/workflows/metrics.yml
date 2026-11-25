@@ -21,6 +21,8 @@ jobs:
           config_timezone: America/Sao_Paulo
           # include repos from organizations you belong to, not just your own
           repositories_affiliations: owner, collaborator, organization_member
+          # old study projects with vendored libraries that distort the totals
+          repositories_skipped: scanbook2, Aula-com-Jquery, HomeCareRP, MensageriaEmail, AmigosSolidarios
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
